@@ -9,7 +9,6 @@ public class Orginationandcontact {
 			WebDriverUtils wutils = new WebDriverUtils ();
 			ExcelUtils eutils = new ExcelUtils();
 			
-			
 			// to read data from properties file
    
 			String BROWSER = futils.getDataFromPropertyFile("Browser");
