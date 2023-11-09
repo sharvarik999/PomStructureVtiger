@@ -66,7 +66,7 @@ public class Orginationandcontact {
 		 //  driver.findElement(By.xpath("//input[@class='crmbutton small save']")).click();
 		
 			
-			//organization
+			//organization page
 			
 		     
 		     System.out.println(ogname);
