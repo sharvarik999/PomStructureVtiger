@@ -37,7 +37,7 @@ public class Organization_page {
 			return saveBTN;
 		}
 
-		public WebElement getImagebtn() {
+		public WebElement getImagebtn() {  //img button
 			return imagebtn;
 		}
 	}
